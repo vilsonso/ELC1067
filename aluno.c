@@ -40,3 +40,4 @@ int main(int argc, char **argv){
         int n;
         le_alunos(matriculas,nommes,&n);
 }
+ aluno
