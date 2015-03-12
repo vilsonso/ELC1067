@@ -33,10 +33,10 @@ int main(int argc, char **argv){
         if(argc>1){
                 nome=argv[1];
         }
+
         printf("%s\n",nome);
         int matricula[50],
         char nomes[50][50];
         int n;
         le_alunos(matriculas,nommes,&n);
 }
-
